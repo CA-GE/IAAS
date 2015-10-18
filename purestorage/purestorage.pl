@@ -24,7 +24,7 @@ use Nimbus::PDS;
 
 use REST::Client;
 use JSON;
-use  HTTP::Cookies;
+use HTTP::Cookies;
 
 # Data::Dumper makes it easy to see what the JSON returned actually looks like
 # when converted into Perl data structures.

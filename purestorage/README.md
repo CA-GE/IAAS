@@ -6,8 +6,10 @@ probe was born.
 
 ##Modules Required##
 
-These modules need to be supplied within the probe.
+These PERL modules need to be supplied within the probe.
 
 * REST
 * JSON
 * HTTP Cookies
+* DATA Dumper
+* MIME Base64
